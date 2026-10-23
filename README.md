@@ -3,6 +3,7 @@
 Display fixes for the PC version of **Disney Universe** (2011, Steam).
 
 The game's 3D scene is always rendered at 1280×720 and then stretched to the selected resolution, which makes 1440p and 4K look blurry. On top of that, the game only offers exclusive fullscreen or a small fixed-size window. LiteralUniverse fixes both and adds a few other basic display settings.
+<img width="3840" height="2160" alt="6688423174839" src="https://github.com/user-attachments/assets/eee3ebec-2136-4d85-8727-7dca31c86da4" />
 
 ## Features
 
